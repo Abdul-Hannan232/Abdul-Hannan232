@@ -1,18 +1,16 @@
-![](https://files.slack.com/files-tmb/T051ZFZAYR1-F06TXRYQT55-617d2c40a8/linked-in-banner-4_720.jpg)
+![](linked-in-banner-4.jpg)
+<h1 align="center">
+ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" alt="Waving Hand">, I'm Abdul Hannan
+</h1>
 
-### Hi there 👋
+<h3 align="center">
+I'm a passionate Full Stack Developer and Fiverr Level One Seller from Pakistan
+</h3>
+<h2>
+🙋‍♂️ About Me
+</h2>
 
-<!--
-**Abdul-Hannan232/Abdul-Hannan232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+<li>🎓 Graduated in BS- Information Technology with Award Winning FYP</li>
+  
+</ul>
