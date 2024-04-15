@@ -1,3 +1,5 @@
+![](https://files.slack.com/files-tmb/T051ZFZAYR1-F06TXRYQT55-617d2c40a8/linked-in-banner-4_720.jpg)
+
 ### Hi there 👋
 
 <!--
