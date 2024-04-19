@@ -37,14 +37,17 @@ I'm a passionate Full Stack Developer and Fiverr Level Two Seller from Pakistan
  <li>Deployment (Vercel, Firebase, Heroku, Surge, Netlify, Shared hosting/C-panel)</li>
 </ul>
 
-<p  align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-hannan232&theme=black-ice" alt="abdul-hannan232" /></p>
-
- <h2>📊 My Github Stats</h2>
-<p align="center">
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-hannan232&layout=compact&theme=react" alt=abdul-hannan232 />
- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=abdul-hannan232&show_icons=true&locale=en&theme=react" alt="abdul-hannan232" />
+<p  align="center">
+ <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-hannan232&theme=black-ice" alt="abdul-hannan232" />
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=abdul-hannan232&show_icons=true&locale=en&theme=react" alt="abdul-hannan232" />
 </p>
 
+ <h2>📊 My Github Stats</h2>
+<p>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-hannan232&layout=compact&theme=react" alt=abdul-hannan232 />
+ <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdul-hannan232&theme=2077" height="180em" />
+</p>
+<p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 
 
 <h2 align="left">Languages and Tools:</h2>
