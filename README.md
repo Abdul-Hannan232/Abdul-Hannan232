@@ -39,16 +39,16 @@ I'm a passionate Full Stack Developer and Fiverr Level Two Seller from Pakistan
 
 <p  align="center">
  <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-hannan232&theme=black-ice" alt="abdul-hannan232" />
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=abdul-hannan232&show_icons=true&locale=en&theme=react" alt="abdul-hannan232" />
 </p>
 
  <h2>📊 My Github Stats</h2>
 <p>
+ <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=abdul-hannan232&show_icons=true&locale=en&theme=react" alt="abdul-hannan232" />
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-hannan232&layout=compact&theme=react" alt=abdul-hannan232 />
- <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdul-hannan232&theme=2077" height="180em" />
-</p>
 <p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+</p>
 
+ <img align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdul-hannan232&theme=2077" height="180em" />
 
 <h2 align="left">Languages and Tools:</h2>
 <p >
