@@ -37,11 +37,15 @@ I'm a passionate Full Stack Developer and Fiverr Level Two Seller from Pakistan
  <li>Deployment (Vercel, Firebase, Heroku, Surge, Netlify, Shared hosting/C-panel)</li>
 </ul>
 
- <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhannan&theme=black-ice" alt="abdulhannan" /></p>
-<h2>
-📊 My Github Stats
-</h2>
-<p  align="center"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulhannan&show_icons=true&locale=en&theme=react" alt="abdulhannan" /></p>
+<p  align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-hannan232&theme=black-ice" alt="abdul-hannan232" /></p>
+
+ <h2>📊 My Github Stats</h2>
+<p align="center">
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-hannan232&layout=compact&theme=react" alt=abdul-hannan232 />
+ <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=abdul-hannan232&show_icons=true&locale=en&theme=react" alt="abdul-hannan232" />
+</p>
+
+
 
 <h2 align="left">Languages and Tools:</h2>
 <p >
@@ -80,3 +84,4 @@ I'm a passionate Full Stack Developer and Fiverr Level Two Seller from Pakistan
 
 <p></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhannan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhannan" /> </p>
+
