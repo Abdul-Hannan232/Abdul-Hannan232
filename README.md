@@ -29,6 +29,7 @@ I'm a passionate Full Stack Developer and Fiverr Level Two Seller from Pakistan
 <li>Web 3 (Metamask Integration, Web3.js, Ethers.js, SmartContract Integration, Web3 UI)</li>
 <li>MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)</li>
 <li>JAM Stack (GatsbyJs, NextJs, GraphQl, FaunaDB, Serverless Cloud Functions, Headless CMS including Strapi, Contentful and Sanity)</li>
+<li>React Native</li>
 <li>Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap, Bulma Css, Sass, Styled components)</li>
 <li>Stripe, Razorpay (Payments)</li>
  <li>Databases (Firebase Firestore, FaunaDB, MongoDB, PostgreSQL)</li>
