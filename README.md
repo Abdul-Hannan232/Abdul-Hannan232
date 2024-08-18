@@ -4,14 +4,14 @@
 </h1>
 
 <h3 align="center">
-I'm a passionate Full Stack Developer and Fiverr Level Two Seller from Pakistan
+I'm a passionate Full Stack Developer and Fiverr Level One Seller from Pakistan
 </h3>
 <h2>
 🙋‍♂️ About Me
 </h2>
 
 <ul>
-<li>🎓 Graduated in BS-Computer Science.</li>
+<!-- <li>🎓 Graduated in BS-Computer Science.</li> -->
 <li>👨‍💻 All of my projects are available at <a href="https://portfolio-abdulhannan232s-projects.vercel.app/">My Portfolio</a></li>
 <li>⭐ Left Fiverr !</li>
 <li>🏆 Completed 46+ projects with International clients with 5-star ratings and reviews.</li>
@@ -26,7 +26,7 @@ I'm a passionate Full Stack Developer and Fiverr Level Two Seller from Pakistan
 
 <ul>
 <li>HTML, CSS, Javascript, Typescript</li>
-<li>Web 3 (Metamask Integration, Web3.js, Ethers.js, SmartContract Integration, Web3 UI)</li>
+<!-- <li>Web 3 (Metamask Integration, Web3.js, Ethers.js, SmartContract Integration, Web3 UI)</li> -->
 <li>MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)</li>
 <li>JAM Stack (GatsbyJs, NextJs, GraphQl, FaunaDB, Serverless Cloud Functions, Headless CMS including Strapi, Contentful and Sanity)</li>
 <li>React Native</li>
