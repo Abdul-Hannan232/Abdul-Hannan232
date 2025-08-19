@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-I'm a Full Stack Developer Intern
+I'm a Full Stack Developer
 <!--   and Upwork & Fiverr Level One Seller from Pakistan -->
 </h3>
 <h2>
@@ -34,8 +34,8 @@ I'm a Full Stack Developer Intern
 <li>Web3</li>
 <!-- <li>React Native</li> -->
 <li>Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap, Bulma Css, Sass, Styled components)</li>
-<li>Stripe, Razorpay (Payments)</li>
-<li>Databases (Vector Databases, Firebase Firestore, FaunaDB, MongoDB, PostgreSQL)</li>
+<!-- <li>Stripe, Razorpay (Payments)</li> -->
+<!-- <li>Databases (Vector Databases, Firebase Firestore, FaunaDB, MongoDB, PostgreSQL)</li> -->
 <li>Project Management (git, Github, CI/CD, Storybook, Trello, Jira, Bitbucket, Gitlab)</li>
 <li>Design (Figma, Balsamiq, Canva)</li>
 <!-- <li>Deployment (Azure, AWS, Vercel, Firebase, Heroku, Surge, Netlify, Shared hosting/C-panel)</li> -->
