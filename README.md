@@ -13,7 +13,7 @@ I'm a Full Stack Developer
 
 <ul>
 <!-- <li>🎓 Graduated in BS-Computer Science.</li> -->
-<li>👨‍💻 Most of my projects are available at <a href="https://portfolio-abdulhannan232s-projects.vercel.app/">My Portfolio</a></li>
+<!-- <li>👨‍💻 Most of my projects are available at <a href="https://portfolio-abdulhannan232s-projects.vercel.app/">My Portfolio</a></li> -->
 <li>⭐ Left Fiverr !</li>
 <li>🏆 Completed 46+ projects with International clients with 5-star ratings and reviews.</li>
 <li>🤠 Coded 9000+ hours</li>
