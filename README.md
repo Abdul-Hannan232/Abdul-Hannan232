@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-I'm a Full Stack Developer
+I'm an Agentic AI Full Stack Engineer
 <!--   and Upwork & Fiverr Level One Seller from Pakistan -->
 </h3>
 <h2>
@@ -16,7 +16,7 @@ I'm a Full Stack Developer
 <!-- <li>👨‍💻 Most of my projects are available at <a href="https://portfolio-abdulhannan232s-projects.vercel.app/">My Portfolio</a></li> -->
 <li>⭐ Left Fiverr !</li>
 <li>🏆 Completed 46+ projects with International clients with 5-star ratings and reviews.</li>
-<li>🤠 Coded 9000+ hours</li>
+<li>🤠 Coded 11000+ hours</li>
 <li>⭐ 30+ Repositories on GitHub</li>
  <li>📫 How to reach me <a href="mailto:abdulhani232@gmail.com">abdulhani232@gmail.com</a></li>
  <li>⚡ Fun fact I love coding and I'm a quick learner.</li>
@@ -26,11 +26,10 @@ I'm a Full Stack Developer
 </h2>
 
 <ul>
-<li>HTML, CSS, Javascript, Typescript</li>
+<li>Generative & Agentic AI(OpenAI Agents SDK, LangChain, LangGraph, CrewAI, Knowledge Graphs, LLMs, Vector Databases)</li>
 <!-- <li>Web 3 (Metamask Integration, Web3.js, Ethers.js, SmartContract Integration, Web3 UI)</li> -->
-<li>MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)</li>
+<li>Full Stack (PostgreSQL, FastAPI, React/NextJS, Python)</li>
 <!-- <li>JAM Stack (GatsbyJs, NextJs, GraphQl, FaunaDB, Serverless Cloud Functions, Headless CMS including Strapi, Contentful and Sanity)</li> -->
-<li>Generative AI(LangChain, LangGraph, CrewAI, Knowledge Graphs, LLMs)</li>
 <li>Web3</li>
 <!-- <li>React Native</li> -->
 <li>Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap, Bulma Css, Sass, Styled components)</li>
@@ -38,7 +37,7 @@ I'm a Full Stack Developer
 <!-- <li>Databases (Vector Databases, Firebase Firestore, FaunaDB, MongoDB, PostgreSQL)</li> -->
 <li>Project Management (git, Github, CI/CD, Storybook, Trello, Jira, Bitbucket, Gitlab)</li>
 <li>Design (Figma, Balsamiq, Canva)</li>
-<!-- <li>Deployment (Azure, AWS, Vercel, Firebase, Heroku, Surge, Netlify, Shared hosting/C-panel)</li> -->
+<li>Deployment (Vercel, Firebase, Heroku, Surge, Netlify, Shared hosting/C-panel)</li>
 </ul>
 
 <p  align="center">
